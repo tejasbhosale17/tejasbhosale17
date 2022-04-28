@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejasbhosale17
 - 👀 I’m interested in computer technologies and space.
 - 🌱 I’m currently learning Data Sciernce.
-- 💞️ I’m looking to collaborate on ...
+
 
 <!---
 tejasbhosale17/tejasbhosale17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
